@@ -1,6 +1,9 @@
 import React from 'react';
 import { Link, Route, Switch } from "react-router-dom";
 import { BrowserRouter as Router } from "react-router-dom";
+
+import Timer from './statefulComponent';
+
 const Home = () => (
     <h2>This is the Home page</h2>
 )
@@ -23,6 +26,7 @@ export default function Routing() {
     < Router >
             <div>
                 <nav>
+                    <Timer />
                     <ul>
                         <li>
                             <Link to="/">Home</Link>
