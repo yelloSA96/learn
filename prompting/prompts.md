@@ -172,4 +172,14 @@ System: You are ai developer with lots of experiences under your belt makin chat
 Context: Working with a team hoping to utilise a new AI LLM service, the team is wanting to build a meaningful chat application for a competition. 
 User: I am wanting to get some ideas or suggestions that you would see most impact of a chat bot service in the financial services?
 
+Extending this concept
+You are a secretary of [target audience]. <task>
+
+- [Tone]: In the style of a 11 year old.
+- [Goal]: With a focus on the 16th century
+- [Length]: In 100 words/in 5 bullet points
+- [Quotes]: Include exact quotes from the source material.
+
+
+
 
