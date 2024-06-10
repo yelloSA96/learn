@@ -1,0 +1,5 @@
+# Prompting Guidelines
+
+- Show and tell - Make it clear what response is desired either through instructions, examples, or a combination of the two. When ranking a list of items in alphabetical order or to classifying a paragraph by sentiment, include these details in the prompt to provided to the model.
+- Provide quality data - When building a classifier or get the model to follow a pattern, make sure there are enough examples. Be sure to proofread the examples. The model is smart enough to resolve basic spelling mistakes and still provide a meaningful response. Conversely, the model might assume the mistakes are intentional, which can affect the response.
+- Check the settings - Probability settings, such as Temperature and Top P, control how deterministic the model is in generating a response. When asking for a response where there's only one right answer, a lower value should be specified for these settings. When looking for a response that are not obvious and needs additional creativity, use higher values. The most common mistake users make with these settings is assuming they control "cleverness" or "creativity" in the model response.
