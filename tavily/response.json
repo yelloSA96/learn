@@ -1,0 +1,44 @@
+{
+  "query": "What is an aquarius good at?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "title": "Aquarius Zodiac Sign: Dates, Traits, Compatibility and More - Horoscope.com",
+      "url": "https://www.horoscope.com/zodiac-signs/aquarius",
+      "content": "Aquarius is intellectual and analytical, but don't mistake these attributes for aloofness. Aquarians have deep passion, but they know jumping into something too quickly can cause more harm than good. Aquarians are often big-picture thinkers who can see connections in a way that eludes others.",
+      "score": 0.98771137,
+      "raw_content": null
+    },
+    {
+      "title": "15 Aquarius personality traits you probably don't know about",
+      "url": "https://yourzodiac.org/aquarius-personality-traits/",
+      "content": "Aquarians are a mix of smart authority figure, thanks to Saturn, and fun-loving rebel, courtesy of Uranus's influence. Their rules are their own, and they're such engaging conversationalists that they easily persuade others to follow them.",
+      "score": 0.96926606,
+      "raw_content": null
+    },
+    {
+      "title": "Aquarius Zodiac Sign: Personality Traits, Dates, and Compatibilities",
+      "url": "https://www.wellandgood.com/aquarius-traits/",
+      "content": "As one of the cerebral air signs, Aquarius is also often in their own head. \"They are known for their intelligence, analytical abilities, and love of learning,\" says Newman.",
+      "score": 0.96903247,
+      "raw_content": null
+    },
+    {
+      "title": "Everything You Need to Know About the Aquarius Personality",
+      "url": "https://www.purewow.com/wellness/aquarius-personality",
+      "content": "Aquarians are lovers on a global scale. They are among the coolest and most open-minded people you'll ever meet, characteristically friendly and approachable. It's said that the way an Aquarius thinks now is the way society will think in a decade.",
+      "score": 0.9647889,
+      "raw_content": null
+    },
+    {
+      "title": "Aquarius Zodiac Sign: Characteristics, Dates, & More",
+      "url": "https://www.astrology.com/zodiac-signs/aquarius",
+      "content": "Aquarius is the eleventh sign of the zodiac, and Aquarians are the perfect representatives for the Age of Aquarius. Those born under this horoscope sign have the social conscience needed to carry us into the new millennium. Those of the Aquarius zodiac sign are humanitarian, philanthropic, and keenly interested in making the world a better place.",
+      "score": 0.96028674,
+      "raw_content": null
+    }
+  ],
+  "response_time": 3.6
+}
